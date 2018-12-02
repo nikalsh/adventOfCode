@@ -1,2 +1,0 @@
-# adventOfCode
-https://adventofcode.com/
