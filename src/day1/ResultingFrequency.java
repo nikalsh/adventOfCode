@@ -19,7 +19,7 @@ public class ResultingFrequency {
     private int firstRes = 0;
 
     public ResultingFrequency(int init) throws FileNotFoundException {
-        File file = new File("src/adventofcode/day1/input.txt/");
+        File file = new File("src/day1/input.txt/");
         res = init;
         Map<Integer, Integer> freqOccur = new HashMap<>();
 
