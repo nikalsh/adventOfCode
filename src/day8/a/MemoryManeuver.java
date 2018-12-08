@@ -34,7 +34,6 @@ public class MemoryManeuver {
                 this.numOfChildNodes = numOfChildNodes;
                 this.numOfMetadataEntries = numOfMetadataEntries;
             }
-
         }
 
         public Node(int numOfChildNodes, int numOfMetadataEntries) {
